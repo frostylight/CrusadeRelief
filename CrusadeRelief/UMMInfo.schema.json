@@ -1,0 +1,52 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title":"Unity Mod Manager Information File",
+	"description":"The information of mod",
+	"type":"object",
+	"properties":{
+		"Id":{
+			"type":"string",
+			"description":"Unique string. It is desirable to match the folder name."
+		},
+		"DisplayName":{
+			"type":"string",
+			"description":"Name or Title."
+		},
+		"Author":{
+			"type":"string"
+		},
+		"Version":{
+			"type":"string",
+			"description":"Need for dependent mods and to check for updates."
+		},
+		"ManagerVersion":{
+			"type":"string",
+			"description":"Minimum required version of the mod manager. (Recommended)"
+		},
+		"Requirements":{
+			"type":"array",
+			"description":"Minimum required version of mods or just other required mod.",
+			"items":{
+				"type":"string"
+			},
+			"uniqueItems":true
+		},
+		"AssemblyName":{
+			"type":"string",
+			"description":"Filename we are creating. Default like 'Id' (e.g. TestMod.dll)."
+		},
+		"EntryMethod":{
+			"type":"string",
+			"description":"A function that will be called by the mod manager at load game."
+		},
+		"HomePage":{
+			"type":"string"
+			"description":"Web address."
+		},
+		"Repository":{
+			"type":"string",
+			"description":"Web address to check for updates."
+		}
+	},
+	"required":["Id", "Version", "EntryMethod"]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrusadeRelief", "CrusadeRelief\CrusadeRelief.csproj", "{B95929DA-E153-4784-885F-DC600E2F6C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95929DA-E153-4784-885F-DC600E2F6C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95929DA-E153-4784-885F-DC600E2F6C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95929DA-E153-4784-885F-DC600E2F6C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95929DA-E153-4784-885F-DC600E2F6C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A924DA6-D48C-4408-BD6C-A1EE07987B3B}
+	EndGlobalSection
+EndGlobal
