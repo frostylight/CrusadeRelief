@@ -1,6 +1,6 @@
 ﻿{
   "Id": "CrusadeRelief",
   "DisplayName": "Crusade Relief",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "EntryMethod": "CrusadeRelief.Main.Load"
 }

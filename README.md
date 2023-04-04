@@ -1,8 +1,9 @@
 # CrusadeRelief
 
-Crusade Relief is a mod for Pathfinder: Wrath of the Righteous.
+Crusade Relief is a mod for Pathfinder: Wrath of the Righteous. 
 
-* The enemies in crusade combat will skip their turns. (Which means you can easily win the combat in manual combat.)
+* Automatically win the crusade combat when you enable **Run the tactical combats automatically**. (From [CombatRelief](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/40).)
+* The enemies in crusade combat will skip their turns. (For whom accidently click **FIGHT THE BATTLE**.)
 
 Game version: 2.1.1i+ (I didn't test it in older version.)
 

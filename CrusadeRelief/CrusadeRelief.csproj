@@ -33,6 +33,7 @@
   <ItemGroup>
     <Compile Include="TacticalCombatAIBrainController_Tick_Patch.cs" />
     <Compile Include="Main.cs" />
+    <Compile Include="TacticalCombatResultsPrediction_GetAttackerLossesPercent_Patch.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
