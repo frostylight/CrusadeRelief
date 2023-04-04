@@ -1,6 +1,10 @@
 ﻿{
-  "Id": "CrusadeRelief",
+  "Id": "Frostylight.WTOR.CrusadeRelief",
   "DisplayName": "Crusade Relief",
-  "Version": "1.1.0",
-  "EntryMethod": "CrusadeRelief.Main.Load"
+  "Author": "frostylight",
+  "Version": "1.1.1",
+  "AssemblyName": "CrusadeRelief.dll",
+  "EntryMethod": "CrusadeRelief.Main.Load",
+  "HomePage": "https://github.com/frostylight/CrusadeRelief",
+  "Repository": "https://raw.githubusercontent.com/frostylight/CrusadeRelief/master/Repository.json"
 }

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrusadeRelief", "CrusadeRelief\CrusadeRelief.csproj", "{B95929DA-E153-4784-885F-DC600E2F6C07}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{5B49C6F2-9F47-4D60-9DDC-92B7E7527033}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{5B49C6F2-9F47-4D60-9DDC-92B7E7527033}"
 	ProjectSection(SolutionItems) = preProject
 		Repository.json = Repository.json
 	EndProjectSection
