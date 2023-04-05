@@ -31,9 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TacticalCombatAIBrainController_Tick_Patch.cs" />
+    <Compile Include="AvoidRandomEncounter.cs" />
+    <Compile Include="Setting.cs" />
     <Compile Include="Main.cs" />
-    <Compile Include="TacticalCombatResultsPrediction_GetAttackerLossesPercent_Patch.cs" />
+    <Compile Include="CrusadeAutoWin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
@@ -56,8 +57,20 @@
       <HintPath>$(WrathPath)\Wrath_Data\Managed\AstarPathfindingProject.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityModManager">
@@ -71,7 +84,7 @@
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties info_1json__JsonSchema="UMMInfo.schema.json" />
+      <UserProperties info_1json__JsonSchema="https://raw.githubusercontent.com/frostylight/CrusadeRelief/master/UMMInfo.schema.json" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

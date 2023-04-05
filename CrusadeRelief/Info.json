@@ -2,7 +2,7 @@
   "Id": "Frostylight.WTOR.CrusadeRelief",
   "DisplayName": "Crusade Relief",
   "Author": "frostylight",
-  "Version": "1.1.1",
+  "Version": "2.0.0",
   "AssemblyName": "CrusadeRelief.dll",
   "EntryMethod": "CrusadeRelief.Main.Load",
   "HomePage": "https://github.com/frostylight/CrusadeRelief",

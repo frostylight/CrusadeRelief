@@ -3,7 +3,8 @@
 Crusade Relief is a mod for Pathfinder: Wrath of the Righteous. 
 
 * Automatically win the crusade combat when you enable **Run the tactical combats automatically**. (From [CombatRelief](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/40).)
-* The enemies in crusade combat will skip their turns. (For whom accidently click **FIGHT THE BATTLE**.)
+* * The enemies in crusade combat will skip their turns. (For whom accidently click **FIGHT THE BATTLE**.)
+* Allow to escape from all random encounters on the crusade map, (This does not stop forced story encounters.) (From [CombatRelief](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/40).)
 
 Game version: 2.1.1i+ (I didn't test it in older version.)
 

@@ -40,7 +40,7 @@
 			"description":"A function that will be called by the mod manager at load game."
 		},
 		"HomePage":{
-			"type":"string"
+			"type":"string",
 			"description":"Web address."
 		},
 		"Repository":{

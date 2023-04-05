@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{5B49C6F2-9F47-4D60-9DDC-92B7E7527033}"
 	ProjectSection(SolutionItems) = preProject
 		Repository.json = Repository.json
+		UMMInfo.schema.json = UMMInfo.schema.json
 	EndProjectSection
 EndProject
 Global
